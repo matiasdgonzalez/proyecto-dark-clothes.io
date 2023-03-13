@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: rgba(128, 128, 128, 0.575);
+}
+
+main{
+    background-color: azure;
+}
+
+footer{
+    background-color: coral;
+}
